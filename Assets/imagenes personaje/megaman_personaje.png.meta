@@ -1,0 +1,1527 @@
+fileFormatVersion: 2
+guid: 44605eac56332384f9def2aa1393dc81
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megaman_personaje_0
+    21300002: megaman_personaje_1
+    21300004: megaman_personaje_2
+    21300006: megaman_personaje_3
+    21300008: megaman_personaje_4
+    21300010: megaman_personaje_5
+    21300012: megaman_personaje_6
+    21300014: megaman_personaje_7
+    21300016: megaman_personaje_8
+    21300018: megaman_personaje_9
+    21300020: megaman_personaje_10
+    21300022: megaman_personaje_11
+    21300024: megaman_personaje_12
+    21300026: megaman_personaje_13
+    21300028: megaman_personaje_14
+    21300030: megaman_personaje_15
+    21300032: megaman_personaje_16
+    21300034: megaman_personaje_17
+    21300036: megaman_personaje_18
+    21300038: megaman_personaje_19
+    21300040: megaman_personaje_20
+    21300042: megaman_personaje_21
+    21300044: megaman_personaje_22
+    21300046: megaman_personaje_23
+    21300048: megaman_personaje_24
+    21300050: megaman_personaje_25
+    21300052: megaman_personaje_26
+    21300054: megaman_personaje_27
+    21300056: megaman_personaje_28
+    21300058: megaman_personaje_29
+    21300060: megaman_personaje_30
+    21300062: megaman_personaje_31
+    21300064: megaman_personaje_32
+    21300066: megaman_personaje_33
+    21300068: megaman_personaje_34
+    21300070: megaman_personaje_35
+    21300072: megaman_personaje_36
+    21300074: megaman_personaje_37
+    21300076: megaman_personaje_38
+    21300078: megaman_personaje_39
+    21300080: megaman_personaje_40
+    21300082: megaman_personaje_41
+    21300084: megaman_personaje_42
+    21300086: megaman_personaje_43
+    21300088: megaman_personaje_44
+    21300090: megaman_personaje_45
+    21300092: megaman_personaje_46
+    21300094: megaman_personaje_47
+    21300096: megaman_personaje_48
+    21300098: megaman_personaje_49
+    21300100: megaman_personaje_50
+    21300102: megaman_personaje_51
+    21300104: megaman_personaje_52
+    21300106: megaman_personaje_53
+    21300108: megaman_personaje_54
+    21300110: megaman_personaje_55
+    21300112: megaman_personaje_56
+    21300114: megaman_personaje_57
+    21300116: megaman_personaje_58
+    21300118: megaman_personaje_59
+    21300120: megaman_personaje_60
+    21300122: megaman_personaje_61
+    21300124: megaman_personaje_62
+    21300126: megaman_personaje_63
+    21300128: megaman_personaje_64
+    21300130: megaman_personaje_65
+    21300132: megaman_personaje_66
+    21300134: megaman_personaje_67
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 6
+  spritePivot: {x: 0, y: 0}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megaman_personaje_0
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1756
+        width: 32
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f075efa5f56708a4997e26b07b8d436f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1757
+        width: 88
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b5187dcf4d1c548adaf8252c401db4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1760
+        width: 118
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b5d8b05f1a2341bc5bd055884190a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1760
+        width: 118
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3280996a29a11894c8a0b9ad62aca461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1760
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975eed0e2e2f36d4d9b7a4beb04187fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1559
+        width: 116
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0507be92731b949459b06f67d71bf21e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1559
+        width: 74
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7998f7fe7ac13e43b2ce8264ad5f962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1563
+        width: 108
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a524e28249b67a4d8da50f0b7e6761e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1555
+        width: 107
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0278d2a58c332fe4184d28b3760ba6a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1562
+        width: 124
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cfdb4733b446c409c573628b933d56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1401
+        width: 120
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fbf68138e616645af02ce9ee07d8d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1403
+        width: 79
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8f7c2f4a7ba3a45bedcfdc09da2382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1403
+        width: 92
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0845b56a865edd46ad038eee659787f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1402
+        width: 132
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e410305590798a747b214ba9d4be92ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1401
+        width: 88
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624bd4e0c9ab8ab4c89d4ad5d55fa28c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_15
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1401
+        width: 98
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1ac87e3b98f38418aaaf3e91d4f151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1401
+        width: 135
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0059811cbd7ee3645b0d8fcc5b8979b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1215
+        width: 115
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8964ee0092b86d4caab7d7989faa080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1217
+        width: 128
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6519a60ed6457d349bb1066f8638a6e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1221
+        width: 150
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ad61d00be08054984de5b5344ca81c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_20
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1225
+        width: 124
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a38929ed4f80c42abd391694462a31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_21
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1226
+        width: 132
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8314dca684f423468f9a54eb732b71b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_22
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1229
+        width: 148
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61074433bff56d74780d8f85ad9bfb59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1104
+        width: 152
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0482129c420938429c9127011bfc7da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_24
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1104
+        width: 192
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6856649b1209af94c988b7fa70ee7cb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 906
+        width: 108
+        height: 172
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79a1d8825131c649b50ba7a146b6657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 910
+        width: 110
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9305fea2dc4aedd4ba32c21edeceb8f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 910
+        width: 128
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42daadc9bade8e4fba3e999d70521f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_28
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 904
+        width: 70
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad29c5092bc1d3a4fb9a0bf4b944bbae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_29
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 913
+        width: 80
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d4d7891b9fb4240bb9af74cb34adc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 914
+        width: 80
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40373eb8073069f4dbee27b07e9e6329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_31
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 905
+        width: 70
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d079b5e2b7c704abe3b2cf70d278d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_32
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 950
+        width: 82
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e96a9a767ffc6a41a36d672037cb0c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_33
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 906
+        width: 105
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd4db1d128c48c4f916fc934121e012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 728
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5127069d0b537504ba5e23e592c6713e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 728
+        width: 118
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31e98ff923078943bf26c8a3c5d8d08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 728
+        width: 118
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ee82dd2ea12fd418242eb6b37ba951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 723
+        width: 96
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f170a3a8ced41ea46b5d59aa6242ce67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_38
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 715
+        width: 114
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50cf65cb5b29d64b97c88a375ac21c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_39
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 700
+        width: 128
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a263d8875e46e44b90b949af161a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_40
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 728
+        width: 136
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18743c6eb9d2d5443852f3b3e65215ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_41
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 527
+        width: 98
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257262358dff5fb41b5e3a432744750c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_42
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 495
+        width: 128
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c289daa8080a9c439293c75ac528296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_43
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 309
+        width: 112
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be86617eed667074f8dd15da68ba49fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_44
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 309
+        width: 108
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c01558647c42944a533628dd9cdda5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_45
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 309
+        width: 136
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381360d8f1dde2849b4c152ef4bd2386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_46
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 205
+        width: 71
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da3a299c4b03344799f1abcf3d6493f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_47
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 205
+        width: 77
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429463d18e41d1b42b02b75a189bb7b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_48
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 205
+        width: 82
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8caddaa4c9c504f965b5a9bee4401e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_49
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 205
+        width: 74
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c4ea0c714c1154cbd62949d57d4eba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9159cf1a438eb4299fa84bf02d8f4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623ec7cafb104c94595ac9845f02aeed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_52
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 33
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697eef242179c2d4baa6f580dae191b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_53
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 33
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276cebf6da5949d4493937ed2ed85a8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_54
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 33
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bb933166c11d54cbe716c1ab53558b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_55
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 33
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e612b67caf86a84e97a4425315900f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_56
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 34
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebc705655df1c9408b70661644889c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_57
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 34
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ed7351f61f2b546b3a3df4db5e4333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_58
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 34
+        width: 118
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab08a43fb5e79f4cbaa4ebd949a94e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4
+        width: 74
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecae7ecab339f9444a9b512e4162a0ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_60
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2
+        width: 74
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197ddba59bb13f249b5caa52cde52507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_61
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 74
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e6e4cb49529ff4dbcfd3178809a72a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_62
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 4
+        width: 74
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8402ba61ec84c4b9cbcaa093780e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_63
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 4
+        width: 74
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202849698549c6d488a7ca7991521844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_64
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4
+        width: 74
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8104075d837ec3c4ea97d3fb02ac7ecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_65
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 4
+        width: 74
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e5c1859a87c6e4a99a55db8c2e4e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_66
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 5
+        width: 74
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e368f8e8cf7ce5240a86eb6e6ec43645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_personaje_67
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 5
+        width: 74
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfc63082f4c14d48969c578e657364a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 507e196d07f8b0844b7f134a5209f52b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
