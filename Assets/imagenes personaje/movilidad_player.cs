@@ -12,6 +12,8 @@ public class movilidad_player : MonoBehaviour
     private bool jump;
     private Animator anim;
     private Rigidbody2D rb2d;
+    public Transform bulletSpawner;
+    public GameObject bulletPrefab;
 
     // Start is called before the first frame update
     void Start()
@@ -37,7 +39,7 @@ public class movilidad_player : MonoBehaviour
         {
             jump = true;
         }
-
+        playerShotting();
     }
 
     void FixedUpdate()
@@ -76,6 +78,14 @@ public class movilidad_player : MonoBehaviour
     void OnCollisionExit2D(Collision2D col)
     {
         grounded = false;
+    }
+
+    void playerShotting()
+    {
+        if (Input.GetButtonDown("Fire1"))
+        {
+            Instantiate(bulletPrefab,bulletSpawner.position,bulletSpawner.rotation);
+        }
     }
 
 
