@@ -39,4 +39,16 @@ public class BulletMovement : MonoBehaviour
     {
         Destroy(gameObject, bulletLife);
     }
+
+    void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.tag == "Enemy")
+        {
+            GetComponent<ParticleSystem>().Play();
+            GetComponent<SpriteRenderer>().enabled = false;
+            GetComponent<BoxCollider2D>().enabled = false;
+        }
+    }
+
+
 }
