@@ -63,10 +63,12 @@ public class movilidad_player : MonoBehaviour
 
         if (jump)
         {
+            anim.SetBool("salto",true);
             rb2d.AddForce(Vector2.up * jumpPower,ForceMode2D.Impulse);
-            jump = false; 
+            jump = false;
+          
         }
-
+       
     }
 
 
@@ -84,8 +86,15 @@ public class movilidad_player : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1"))
         {
+            anim.SetBool("salto",false);
+            anim.SetBool("isSooting", true);
             Instantiate(bulletPrefab,bulletSpawner.position,bulletSpawner.rotation);
         }
+        else if (Input.GetButtonUp("Fire1"))
+        {
+            anim.SetBool("isSooting", false);
+        }
+
     }
 
 
