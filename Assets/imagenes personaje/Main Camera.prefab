@@ -96,5 +96,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   follow: {fileID: 0}
-  minCamPos: {x: 0, y: 0}
+  minCamPos: {x: 3, y: 0}
   MaxCamPos: {x: 19.74, y: 0}
