@@ -8,18 +8,24 @@ public class movilidad_player : MonoBehaviour
     public float speed = 75f;
     public float jumpPower = 11.6f;
     public bool grounded;
+    public int damage=100;
+    private bool movement = true;
+    private SpriteRenderer spr;
 
     private bool jump;
     private Animator anim;
     private Rigidbody2D rb2d;
     public Transform bulletSpawner;
     public GameObject bulletPrefab;
+    private GameObject Healthbar;
 
     // Start is called before the first frame update
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        Healthbar = GameObject.Find("Healthbar");
+
 
         if (Input.GetKeyDown(KeyCode.UpArrow))
         {
@@ -96,6 +102,25 @@ public class movilidad_player : MonoBehaviour
         }
 
     }
+
+    public void EnemyKnockBack(float enemyPosX)
+    {
+        Healthbar.SendMessage("TakeDamage", 15);
+
+        jump = true;
+        damage= damage - 15;
+
+        float side = Mathf.Sign(enemyPosX - transform.position.x);
+        rb2d.AddForce(Vector2.left * side * jumpPower, ForceMode2D.Impulse);
+
+        movement = false;
+        Invoke("Enablemovement",0.7f);
+
+        Color color = new Color(255 / 255f, 106/255f , 0/255f );
+        spr.color = color;        
+
+    }
+
 
 
 }
