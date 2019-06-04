@@ -14,9 +14,10 @@ GameObject:
   - component: {fileID: 6761116899489695582}
   - component: {fileID: 4017266011453097126}
   - component: {fileID: 5998123396505986045}
+  - component: {fileID: 7809179197911124451}
   m_Layer: 8
   m_Name: freezeenemysheet_0
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -166,6 +167,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &7809179197911124451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8904855746787963758}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75104888b3b90eb4caef6d823ed1faff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyHealth: 100
+  enemyValue: 0
 --- !u!1001 &1205529929877487646
 PrefabInstance:
   m_ObjectHideFlags: 0

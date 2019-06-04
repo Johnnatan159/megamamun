@@ -24,7 +24,7 @@ public class movilidad_player : MonoBehaviour
     {
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        Healthbar = GameObject.Find("Healthbar");
+       //Healthbar = GameObject.Find("Healthbar");
 
 
         if (Input.GetKeyDown(KeyCode.UpArrow))
@@ -102,7 +102,7 @@ public class movilidad_player : MonoBehaviour
         }
 
     }
-
+    /*
     public void EnemyKnockBack(float enemyPosX)
     {
         Healthbar.SendMessage("TakeDamage", 15);
@@ -120,7 +120,7 @@ public class movilidad_player : MonoBehaviour
         spr.color = color;        
 
     }
-
+    */
 
 
 }

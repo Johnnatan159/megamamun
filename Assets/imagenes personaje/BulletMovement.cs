@@ -11,8 +11,12 @@ public class BulletMovement : MonoBehaviour
     public float bulletSpeed;
     public float bulletLife;
 
+    public static int damage;
+    public int damageRef;
+
     private void Awake()
     {
+        damage = damageRef;
         bulletRB = GetComponent<Rigidbody2D>();
         player = GameObject.FindGameObjectWithTag("Player");
         playerTrans = player.transform;
